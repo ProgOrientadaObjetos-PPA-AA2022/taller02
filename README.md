@@ -68,5 +68,5 @@ Para un sistema posterior, es necesario abstraer las características de disposi
 
 Se requiere administrar los escenarios deportivos de la ciudad de Loja. Se ha realizado un análisis, cada escenario tiene propiedades como: nombre, número de espectadores, dirección, número de locales comerciales, número de puertas de entrada, número de camerinos. Se quiere realizar una representación entre la clase y 4 objetos.
 ### Considerar:
-- Los datos deben ser privador y los comportamientos privados
+- Los datos deben ser privados y los comportamientos privados
 - Agregar en la carpeta respectiva el archivo DIAUML y la imagen exportada**
